@@ -1,0 +1,160 @@
+
+.a1{
+    font-size: 50px;
+    padding-top: 50px;
+}
+.a2{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid #5eb9f0;
+    background-color: #5eb9f0;
+    color: white;
+}
+.a3{
+    margin: 50px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid #5eb9f0;
+    background-color: #5eb9f0;
+    color: white;
+}
+.a4{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid #5eb9f0;
+    background-color: #5eb9f0;
+    color: white;
+}
+.a5{
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    border: 1px solid #5eb9f0;
+    background-color: #5eb9f0;
+    color: white;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}
+.b1{
+    margin: 30px;
+   
+}
+.b2{
+    padding-top: 200px;
+}
+.b3{
+    margin:50px 10px 20px 120px;
+    padding-left: 40px;
+}
+.b4{
+    margin: 50px 10px 0px 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+.b5{
+    margin:50px 0px 20px 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+
+.c1{
+    border: 1px solid black;
+}
+.c2{
+    margin: 5px;
+}
+.d{
+    height: 50px;
+    background-color: #343f52;
+    border: 1px solid white;
+    border-radius:5px 0px 0px 5px;
+    padding-left: 10px;
+    color: aliceblue;
+
+}
+.a6{
+    width: 60px;
+    height: 50px;
+    border-radius:0px 5px 5px 0px;
+    border: 1px solid #5eb9f0;
+    background-color: #5eb9f0;
+    color: white;
+    margin-top: 30px;
+}
+.d1{
+    color:#cacaca;
+}
+.d1:hover{ color: #5eb9f0;}
+
+
+#a1{
+    padding-top: 100px;
+    margin: 10px;
+}
+#b2,#b4,#b6{
+    display: none;
+}
+#b1:hover{
+    color:#5eb9f0;
+}
+#b3:hover{
+    color:#5eb9f0;
+}
+ #b5:hover{
+    color:#5eb9f0;
+}
+#c4,#c5,#c6{
+    display: none;
+}
+#c1:hover{
+    color:#5eb9f0;
+}
+#c2:hover{
+    color:#5eb9f0;
+}
+ #c3:hover{
+    color:#5eb9f0;
+}
+
+
+
+.dropdown 
+{
+ position: relative;
+ display: inline-block;
+ }
+ 
+ .dropbtn
+ {
+     color:black;
+     padding:12px;
+     font-size:16px;
+     border:none;
+     
+ }
+ .dropbth:hover
+ {
+     border-bottom:3px soild #832729;
+     color:#832729;
+     transform:scale(1.1);
+ }
+ .dropdown:hover
+ .dropdown-content{display:block;}
+
+.dropdown-content
+{
+ display: none;
+ position: absolute;
+ width:800px;
+height:400px;
+text-align:center;
+z-index:1;
+background-color:#ffffff;
+border-radius: 10px;
+
+}
