@@ -132,16 +132,10 @@ a{
  .dropbtn
  {
      color:black;
-     padding:12px;
+     padding:10px;
      font-size:16px;
      border:none;
      
- }
- .dropbth:hover
- {
-     border-bottom:3px soild #832729;
-     color:#832729;
-     transform:scale(1.1);
  }
  .dropdown:hover
  .dropdown-content{display:block;}
@@ -150,11 +144,11 @@ a{
 {
  display: none;
  position: absolute;
- width:800px;
-height:400px;
 text-align:center;
 z-index:1;
 background-color:#ffffff;
 border-radius: 10px;
 
 }
+
+.e:hover{color: #5eb9f0;}
